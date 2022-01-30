@@ -1,0 +1,38 @@
+
+.check-button, .delete-button {
+    background-color: #F6F1D1;
+    border: none;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    outline: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  .task.done .check-button {
+    background-color: #46494C;
+    color: #F6F1D1;
+  }
+  
+  .check-icon {
+    display: block;
+    padding: 1px;
+    width: 10px;
+    height: 10px;
+    background-color: transparent;
+    border-radius: 50%;
+  }
+  
+  .task.done .check-icon {
+    background-color: #0B2027;
+  }
+  
+  .content {
+    margin: 0;
+  }
+  
+  .task.done .content {
+    text-decoration: line-through;
+  }
+  
+  /*# sourceMappingURL=style.css.map */
+  
