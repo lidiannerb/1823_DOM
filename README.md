@@ -1,4 +1,4 @@
-# Executador de Tarefas
+# Ceep - Lista de Tarefas
 
 ![Foto](assets/Ceep.png)
 
@@ -16,7 +16,7 @@
 
 ## 2. Acesso
 
-O deploy do projeto foi realizado pelo Netlify. [Clique aqui]() para acessá-lo.
+O deploy do projeto foi realizado pelo Netlify. [Clique aqui](https://dainty-sfogliatella-46aee1.netlify.app/) para acessá-lo.
 
 ### Como usar
 Você precisará:
